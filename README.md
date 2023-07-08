@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Engenheiro de Software Igor 😁
+## Bem-vindo(a) ao perfil do estudante de Engenheira de Software, Igor 😁
 
  <div>
    <a href="https://github.com/Ressuscitado">
@@ -17,7 +17,7 @@
  
  <br>
  
-  ### Minhas redes sociais abaixo!
+  ### Minhas redes sociais abaixo:
  
 <div> 
   
