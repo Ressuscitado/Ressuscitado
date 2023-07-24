@@ -3,8 +3,8 @@
 <p>Quero me tornar um desenvolvedor Web FullStack</p>
 <p>Faculdade UNINTER: Engenharia de Software<br>
 Cursos: CS50, B7WEB, Kaggle</p>
-<p>Comecei a aprender programação com a linguagem C, onde percebi a complexidade de uma linguagem de baixo nível</p>
-<p>Aprendi até o momento um pouco sobre JavaScript, HTML(JINJA), CSS, Python(Flask, Pandas), SQLite, MySQL<br>
+<p>Comecei a aprender programação com a linguagem C, onde percebi a complexidade de uma linguagem de baixo nível.<br>
+Aprendi até o momento um pouco sobre JavaScript, HTML(JINJA), CSS, Python(Flask, Pandas), SQLite, MySQL<br>
  
 <strong>Objetivo no presente:</strong> Estudando Frontend JavaScript, HTML e CSS<br>
  <br>
