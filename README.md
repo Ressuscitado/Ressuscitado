@@ -1,5 +1,8 @@
 ## Bem-vindo(a) ao perfil do estudante de Engenharia de Software, Igor 😁
 
+<p>Quero me tornar um desenvolvedor Web FullStack</p>
+<p> </p>
+
  <div>
    <a href="https://github.com/Ressuscitado">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ressuscitado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
