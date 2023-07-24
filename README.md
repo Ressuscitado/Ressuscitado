@@ -4,10 +4,9 @@
 <p>Faculdade UNINTER: Engenharia de Software<br>
 Cursos: CS50, B7WEB, Kaggle</p>
 <p>Comecei a aprender programação com a linguagem C, onde percebi a complexidade de uma linguagem de baixo nível.<br>
-Aprendi até o momento um pouco sobre JavaScript, HTML(JINJA), CSS, Python(Flask, Pandas), SQLite, MySQL<br>
+Aprendi até o momento um pouco sobre JavaScript, HTML(JINJA), CSS, Python(Flask, Pandas), SQLite e MySQL<br>
  
-<strong>Objetivo no presente:</strong> Estudando Frontend JavaScript, HTML e CSS<br>
- <br>
+<p color: red><strong>Objetivo no presente(fazendo):</strong> Estudando Frontend JavaScript, HTML e CSS</p><br>
 Objetivo para o futuro 01: Typescript, Node.js (Frontend)<br>
 Objetivo para o futuro 02: Melhorar meu Python, SQLs, aprender PHP, sobre APIs e Cybersegurança (Backend)</p>
 
