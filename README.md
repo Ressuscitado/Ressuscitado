@@ -8,7 +8,7 @@ Aprendi até o momento um pouco sobre JavaScript, HTML(JINJA), CSS, Python(Flask
  
 <strong>Objetivo no presente(fazendo):</strong> Estudando Frontend JavaScript, HTML e CSS<br>
 <strong>Objetivo para o futuro 01:</strong> Typescript, Node.js (Frontend)<br>
-<strong>Objetivo para o futuro 02:</strong> Melhorar meu Python, SQLs, aprender PHP, sobre APIs e Cybersegurança (Backend)</p>
+<strong>Objetivo para o futuro 02:</strong> Melhorar meu Python, SQLs, aprender PHP, APIs e Cybersegurança (Backend)</p>
 
 
  <div>
