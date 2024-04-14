@@ -33,7 +33,7 @@ Aprendi até o momento um pouco sobre JavaScript, HTML(JINJA), CSS, Python(Flask
 <div> 
   
  <a href="https://discord.gg/3HCyseks3S" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:igorbahia1516@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:igorengenheirodesoftware@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-bahia-823b16204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![Snake animation](https://github.com/Ressuscitado/Ressuscitado/blob/output/github-contribution-grid-snake.svg)
