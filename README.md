@@ -5,9 +5,8 @@
 <strong>Cursos de extenção:</strong>  CS50, B7WEB, Kaggle</p>
 
  
-<strong>Objetivo no presente(fazendo):</strong> Estudando Frontend JavaScript, HTML e CSS<br>
-<strong>Objetivo para o futuro 01:</strong> Typescript, Node.js (Frontend)<br>
-<strong>Objetivo para o futuro 02:</strong> Melhorar meu Python, SQLs, aprender PHP, APIs e Cybersegurança (Backend)</p>
+<strong>No presente(fazendo):</strong> Estudando Frontend JavaScript, HTML e CSS<br>
+<strong>No futuro:</strong> Typescript, Node.js, React, MongoDB<br>
 
 
  <div>
