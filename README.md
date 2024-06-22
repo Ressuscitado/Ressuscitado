@@ -6,7 +6,7 @@
 
  
 <strong>No presente(fazendo):</strong> Estudando Frontend JavaScript, HTML e CSS<br>
-<strong>No futuro:</strong> Typescript, Node.js, React, MongoDB<br>
+<strong>No futuro:</strong> Typescript, Node.js, React, MongoDB, Cloud<br>
 
 
  <div>
