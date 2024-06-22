@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do estudante de Engenharia de Software, Igor 😁
 
-<p><strong>Quero me tornar um desenvolvedor Web FullStack</strong> </p>
+<p><strong>Quero me tornar um desenvolvedor Web FullStack!!!</strong> </p>
 <p><strong>Universidade UNINTER:</strong>  Engenharia de Software<br>
 <strong>Cursos de extenção:</strong>  CS50, B7WEB, Kaggle</p>
 
