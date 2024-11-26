@@ -2,11 +2,11 @@
 
 <p><strong>Quero me tornar um desenvolvedor Web FullStack!!!</strong> </p>
 <p><strong>Universidade UNINTER:</strong>  Engenharia de Software<br>
-<strong>Cursos de extenção:</strong>  CS50, B7WEB, Kaggle</p>
+<strong>Cursos de extenção:</strong>  CS50, B7WEB</p>
 
  
-<strong>No presente(fazendo):</strong> Estudando Frontend JavaScript, HTML e CSS<br>
-<strong>No futuro:</strong> Typescript, Node.js, React, MongoDB, Cloud<br>
+<strong>No presente(fazendo):</strong> Estudando Typescript, Node.js, React, Cloud<br>
+
 
 
  <div>
