@@ -5,7 +5,7 @@
 <strong>Cursos de extenção:</strong>  CS50, B7WEB</p>
 
  
-<strong> Estudando Typescript, Node.js, React, Cloud<</strong>br>
+<strong> Estudando Typescript, Node.js, React, Cloud</strong><br>
 
 
 
