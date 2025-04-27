@@ -1,10 +1,12 @@
 ## Olá, eu sou o Igor, bem vindo ao meu Perfil!!! 😁
 
-<p><strong>Quero me tornar um desenvolvedor Web FullStack!!!</strong> </p>
-<p><strong>Universidade UNINTER:</strong>  Engenharia de Software<br>
-<strong>Cursos de extensão:</strong>  CS50, B7WEB</p>
+<div align="center">
+  <p><strong>Quero me tornar um desenvolvedor Web FullStack!!!</strong> </p>
+  <p><strong>Universidade UNINTER:</strong>  Engenharia de Software<br>
+  <strong>Cursos de extensão:</strong>  CS50, B7WEB</p>
 
-<strong> Estudando Typescript, Node.js, React, Cloud</strong><br>
+  <strong> Estudando Typescript, Node.js, React, Cloud</strong><br>
+</div>
 
 <div align="center">
   <a href="https://github.com/Ressuscitado">
@@ -26,11 +28,12 @@
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />          
 </div>
 
-<br>
+</br>
 
 <div align="center">
-  ### Minhas redes sociais abaixo:
+  <p>Minhas redes sociais abaixo:</p>
 </div>
+</br>
 
 <div align="center"> 
   <a href="https://discord.com/users/igorartus" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
