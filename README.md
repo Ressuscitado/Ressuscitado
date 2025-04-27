@@ -1,4 +1,6 @@
-## Olá, eu sou o Igor, bem vindo ao meu Perfil!!! 😁
+<div align="center">
+  <h1>Olá, eu sou o Igor, bem vindo ao meu Perfil!!! 😁</h1>
+</div>
 
 <div align="center">
   <p><strong>Quero me tornar um desenvolvedor Web FullStack!!!</strong> </p>
@@ -32,7 +34,7 @@
 </br>
 
 <div align="center">
-  <p>Minhas redes sociais abaixo:</p>
+  <h2>Minhas redes sociais abaixo:</h2>
 </div>
 </br>
 
