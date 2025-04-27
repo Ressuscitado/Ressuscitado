@@ -36,6 +36,8 @@
 <br>
 
 ---
-
-
-![snake gif](https://github.com/Ressuscitado/Ressuscitado/blob/output/github-contribution-grid-snake.svg)
+<div align="center">  
+  <a href="https://github.com/Ressuscitado">
+    <img src="https://raw.githubusercontent.com/Ressuscitado/Ressuscitado/output/github-contribution-grid-snake-dark.svg">
+  </a>
+</div>
