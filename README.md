@@ -37,6 +37,5 @@
 
 ---
 
-### 🐍 Snake eating my contributions
 
-![Snake animation](https://github.com/Ressuscitado/Ressuscitado/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ressuscitado/Ressuscitado/blob/output/github-contribution-grid-snake.svg)
