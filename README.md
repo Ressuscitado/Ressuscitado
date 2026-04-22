@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p><strong>Quero me tornar um desenvolvedor Web FullStack!!!</strong> </p>
+
   <p><strong>Engenharia de Software </strong>
 
   <strong>Estudando Typescript, React, Next.js e Node.js</strong><br>
