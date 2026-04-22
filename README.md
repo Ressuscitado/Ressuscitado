@@ -4,8 +4,7 @@
 
 <div align="center">
   <p><strong>Quero me tornar um desenvolvedor Web FullStack!!!</strong> </p>
-  <p><strong>Universidade UNINTER:</strong>  Engenharia de Software<br>
-  <strong>Cursos de extensão:</strong>  CS50 / B7WEB</p>
+  <p><strong>Engenharia de Software </strong>
 
   <strong>Estudando Typescript, React, Next.js e Node.js</strong><br>
 </div>
